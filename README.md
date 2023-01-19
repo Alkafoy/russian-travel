@@ -8,4 +8,4 @@
 * Figma
 * Адаптивная верстка
 
-https
+https://alkafoy.github.io/russian-travel/
