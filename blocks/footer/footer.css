@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 768px) {
     .footer {
-        margin: 0 24px 24px;
+        margin: 40px 24px 24px;
     }
 }
 @media (max-width: 425px) {
