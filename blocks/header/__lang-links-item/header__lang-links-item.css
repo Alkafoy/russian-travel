@@ -1,0 +1,9 @@
+.header__lang-links-item {
+    align-self: end;
+}
+
+@media (max-width: 320px) {
+    .header__lang-links-item {
+        align-self: center;
+    }
+}
